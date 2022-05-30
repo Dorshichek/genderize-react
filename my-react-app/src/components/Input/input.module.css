@@ -2,3 +2,13 @@
   height: 25px;
   display: block;
 }
+
+.show {
+  font-size: 15px;
+  color: black;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
